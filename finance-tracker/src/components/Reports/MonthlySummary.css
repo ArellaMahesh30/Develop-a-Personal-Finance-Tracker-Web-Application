@@ -1,0 +1,17 @@
+
+.MonthlySummary {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .MonthlySummary h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .MonthlySummary p {
+    margin: 5px 0;
+  }
